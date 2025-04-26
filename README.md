@@ -6,7 +6,7 @@ This is a Retrieval-Augmented Generation (RAG) based chatbot project which uses 
 
 ## Authors
 
-- [@Aizazkhan19](https://github.com/AizazKhan19/RAG-Chatbot.git)
+- [@Aizazkhan19](https://github.com/AizazKhan19)
 
 
 ## Installation
