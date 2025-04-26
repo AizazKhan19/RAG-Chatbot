@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+huggingface-hub
+python-dotenv
+gradio
